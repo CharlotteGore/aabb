@@ -1,7 +1,6 @@
-
 # aabb
 
-  AABB Bounding Box
+  AABB Bounding Box module. Includes efficient collision detection algorithm and easy AABB->CSS helpers.
 
 ## Installation
 
@@ -9,7 +8,7 @@
 
 ## API
 
-   
+   WIP
 
 ## License
 
