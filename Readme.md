@@ -77,7 +77,7 @@
 
 ### .size()
 
-  Returns functions to manipulate the position vector.
+  Returns functions to manipulate the size vector.
 
 #### .size().add( vector )
 
