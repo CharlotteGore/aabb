@@ -49,19 +49,19 @@ AABB.prototype = {
 		return {
 			set : function( vec ){
 
-				self[1].set( vec );
+				self[1].set(vec2.scale(vec, 0.5));
 				return self;
 
 			},
 			add : function( vec ){
 
-				self[1].add(vec);
+				self[1].add(vec2.scale(vec, 0.5));
 				return self;
 
 			},
 			subtract : function( vec ){
 
-				self[1].subtract( vec );
+				self[1].subtract(vec2.scale(vec, 0.5));
 				return self;
 
 			},
