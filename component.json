@@ -1,0 +1,15 @@
+{
+  "name": "aabb",
+  "repo": "charlottegore/aabb",
+  "description": "AABB Bounding Box",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "charlottegore/vector2d": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
